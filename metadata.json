@@ -1,0 +1,6 @@
+{
+  "name": "FUTA Roommate Finder",
+  "description": "Student roommate matching, apartment listings, and roommate communication platform for FUTA students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
